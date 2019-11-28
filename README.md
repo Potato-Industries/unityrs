@@ -14,8 +14,8 @@ https://unity3d.com/get-unity/download
 **Proof of concept**
 
 1. Import unityrs_dev.unitypackage to your unity project.
-2. Edit script domain/ip:port in the poc.cs file. 
-3. Build to your target platform.
+2. Edit domain/ip:port in the poc.cs file. 
+3. Build to your target platform. (Tested Linux, Windows)
 4. Setup listener. (nc -lvp 8080)
 5. Download/upload & execute your game!
 
