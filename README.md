@@ -11,7 +11,7 @@ https://unity3d.com/get-unity/download
 
 - kali supports the linux editor appimage binary
 
-**Usage**
+**Proof of concept**
 
 1. Load example project from repo.
 2. Edit script domain/ip:port (poc1.cs, poc2.cs as an example).
@@ -19,6 +19,12 @@ https://unity3d.com/get-unity/download
 4. Setup listener.
 5. Download/upload & execute.
 
-**Tests**
+**Findings**
+
+- bypasses AV (assuming you sign the binaries!)
+
+**Limitations**
+
+- total size 50MB. 
 
 Enjoy~
