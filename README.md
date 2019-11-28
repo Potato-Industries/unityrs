@@ -27,6 +27,8 @@ https://unity3d.com/get-unity/download
 
 - bypasses AV (assuming you sign the binaries!)
 
+<img width="1319" alt="Screenshot 2019-11-28 at 04 44 52" src="https://user-images.githubusercontent.com/56988989/69777829-db970f00-1199-11ea-86b0-61eabb8b8f32.png">
+
 <img width="916" alt="Screenshot 2019-11-28 at 04 08 51" src="https://user-images.githubusercontent.com/56988989/69776595-ce2b5600-1194-11ea-88c9-29e3c0f39dad.png">
 
 **Compile**
