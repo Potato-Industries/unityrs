@@ -2,7 +2,7 @@
 
 portable unity engine reverse shell (or unity engine game backdoor)
 
-- multi-platform (mono or il2cpp)
+- multi-platform (Mono or IL2CPP)
 - supports C# !!
 
 https://medium.com/@Bank_Security/undetectable-c-c-reverse-shells-fab4c0ec4f15
